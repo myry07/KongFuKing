@@ -14,7 +14,7 @@ Wenn Sie dieses Projekt ausführen, erscheint zunächst dieses Bildschirm. Es ve
 
 Dies ist der Beginn des Spiels. Hier habe ich zwei sehr beliebte chinesische Stars als meine Spielcharaktere ausgewählt. Links sehen Sie eine kurze Einführung der Charaktere mit ihren Fotos, Namen, Hobbys und Lebenspunkten. Rechts befindet sich das eigentliche Spiel. Sie steuern Ihren Charakter mit den Tasten "W", "A", "S" und "D" und greifen mit "J" an. Mithilfe meines Wissens über Threads bewegen sich die feindlichen Charaktere automatisch und greifen mich an.
 
-![image]([https://github.com/myry07/KongFuKing/blob/main/interface.PNG](https://github.com/myry07/KongFuKing/blob/main/fight2.PNG))
+![image](https://github.com/myry07/KongFuKing/blob/main/interface.PNG](https://github.com/myry07/KongFuKing/blob/main/fight2.PNG)
 
 Für meinen Charakter habe ich einige zusätzliche Funktionen hinzugefügt. Durch Drücken von "K" können Sie 7 Puppen beschwören, und durch Drücken von "L" können Sie Verbündete beschwören. Auch hier habe ich Threads verwendet.
 
