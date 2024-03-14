@@ -24,10 +24,9 @@ Hier habe ich erfolgreich auf Daten zugegriffen und sie verwendet.
 
 ![image]([https://github.com/myry07/KongFuKing/blob/main/end.PNG](https://github.com/myry07/KongFuKing/blob/main/record.PNG))
 
-
 Wenn die Lebenspunkte meines Charakters oder des Gegners auf 0 oder weniger fallen, endet das Spiel. Das sind grob gesagt die Funktionen des Spiels.
 
-![image]([[https://github.com/myry07/KongFuKing/blob/main/end.PNG](https://github.com/myry07/KongFuKing/blob/main/record.PNG)](https://github.com/myry07/KongFuKing/blob/main/manipngs.png))
+![image]([https://github.com/myry07/KongFuKing/blob/main/end.PNG](https://github.com/myry07/KongFuKing/blob/main/manipngs.png))
 
 Oh, übrigens, dieser Python-Code hat mir sehr geholfen, den Hintergrund der Bilder zu entfernen.
 
