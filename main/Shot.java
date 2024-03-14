@@ -1,5 +1,3 @@
-package KongFuKing.main;
-
 import java.awt.*;
 import static KongFuKing.util.Constant.*;
 
