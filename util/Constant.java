@@ -1,9 +1,8 @@
-package KongFuKing.util;
-
 /**
  * @author myry
  * @date 2024-12-11 19:13
  * 常数的定义
+ * absolutPath要更改
  */
 
 @SuppressWarnings({"all"})
