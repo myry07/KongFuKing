@@ -23,7 +23,7 @@ public final class Constant {
     public static final int enemyhobby = 550;
     public static final int enemyhp = 570;
 
-    public static final String absolutPath = "/Users/myry/Documents/MyJavaProject/Games/src/KongFuKing/pngs/";
+    public static final String absolutPath = "--";//your path
 
     public static final int userheight = 120;
     public static final int userwidth = 120;
