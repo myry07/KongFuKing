@@ -1,5 +1,7 @@
 # KongFuKing
 
+https://www.youtube.com/watch?v=fSkyxeXVqZI
+
 Hallo Zusammen das ist mein erstes keines Spiel, welches von Java programmiert wird. Es bezieht sich auf viele grundlegende Java-Erkenntnisse, wie Vererbung, Polymorphismus, Threads, Ausnahmenbehandlung usw.
 
 Im dritten Semester habe ich mich an der TUBS eine Java-Veranstaltung angemeldet. Als ich erfolgreich "Hello World!" ausgegeben habe, fühlte ich einen starken Stolz in mir aufkommen und entwickelte sofort ein großes Interesse daran. Seitdem habe ich viel Zeit und Energie investiert, um Java zu lernen.
