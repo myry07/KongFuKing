@@ -6,5 +6,5 @@ Im dritten Semester habe ich mich an der TUBS eine Java-Veranstaltung angemeldet
 
 Aber mit zunehmendem Umfang steigt auch die Schwierigkeit, und das Lernen grundlegender Konzepte ist immer langweilig. Deshalb wollte ich ein kleines Spiel mit meinen eigenen Fähigkeiten entwickeln, um nicht nur das gelernte Wissen zu überprüfen, sondern auch meine Programmierfähigkeiten zu verbessern und mein Interesse und Selbstvertrauen in der Programmierung zu steigern. Das ist mein Ziel, um ein kleines Spiel zu erstellen.
 
-![image]()
+![image](https://github.com/myry07/KongFuKing/blob/main/interface.PNG)
 
