@@ -1,5 +1,3 @@
-package KongFuKing.main;
-
 import java.util.Vector;
 
 /**
