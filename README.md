@@ -11,6 +11,7 @@ Aber mit zunehmendem Umfang steigt auch die Schwierigkeit, und das Lernen grundl
 ![image](https://github.com/myry07/KongFuKing/blob/main/interface.PNG)
 
 Wenn Sie dieses Projekt ausführen, erscheint zunächst dieses Bildschirm. Es verwendet JPanel von Java zu zeichnen und JFrame anzuzeigen. Wenn Sie die Taste "1" drücken, wird ein neues Spiel gestartet. Gleichzeitig habe ich auch mein Wissen über Java-IO-Streams genutzt, um die entsprechenden Daten des Spiels zu speichern, sodass Sie beim Drücken von "2" das vorherige Spiel fortsetzen können.
+
 ![image](https://github.com/myry07/KongFuKing/blob/main/fight1.PNG)
 
 Dies ist der Beginn des Spiels. Hier habe ich zwei sehr beliebte chinesische Stars als meine Spielcharaktere ausgewählt. Links sehen Sie eine kurze Einführung der Charaktere mit ihren Fotos, Namen, Hobbys und Lebenspunkten. Rechts befindet sich das eigentliche Spiel. Sie steuern Ihren Charakter mit den Tasten "W", "A", "S" und "D" und greifen mit "J" an. Mithilfe meines Wissens über Threads bewegen sich die feindlichen Charaktere automatisch und greifen mich an.
