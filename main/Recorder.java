@@ -13,7 +13,7 @@ public class Recorder {
     private static FileWriter fw = null;
     private static BufferedWriter bw = null;
     private static BufferedReader br = null;
-    private static String recordFile = "/Users/myry/Documents/MyJavaProject/Games/src/KongFuKing/record/record.txt";
+    private static String recordFile = "--";//your path
 
     private static String counts = null;
     private static int tskcountrecord = 0;
