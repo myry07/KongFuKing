@@ -1,6 +1,6 @@
 # KongFuKing
 
-https://www.youtube.com/watch?v=fSkyxeXVqZI
+VideoLink: https://www.youtube.com/watch?v=fSkyxeXVqZI
 
 Hallo Zusammen ✌✌️ das ist mein erstes keines Spiel, welches von Java programmiert wird. Es bezieht sich auf viele grundlegende Java-Erkenntnisse, wie Vererbung, Polymorphismus, Threads, Ausnahmenbehandlung usw.
 
